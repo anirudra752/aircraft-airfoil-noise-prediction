@@ -9,7 +9,7 @@ An interactive Machine Learning web dashboard application that predicts acoustic
 ## 📊 Performance & Specifications
 * **Core Machine Learning Framework:** XGBoost (Extreme Gradient Boosting Ensemble)
 * **Dataset Engine:** NASA Airfoil Self-Noise Dataset (1,503 experimental test conditions)
-* **Model Accuracy Benchmark:** **~94.8% R² Score** on holdout evaluation vector splits.
+* **Model Accuracy Benchmark:** **~93.28% R² Score** on holdout evaluation vector splits.
 * **UI Design Blueprint:** Premium Dark Theme custom SaaS interface design injected viaScoped CSS styling blocks.
 
 ---
