@@ -239,7 +239,7 @@ thickness = st.sidebar.slider("Displacement Thickness (delta) [m]", min_value=0.
 st.markdown("<h1>✈️ Aircraft Airfoil Noise Prediction Using Machine Learning</h1>", unsafe_allow_html=True)
 st.markdown("<p class='subtitle-text'>High-Fidelity Aerospace Performance Platform Driven by NASA Metrics & XGBoost Architecture</p>", unsafe_allow_html=True)
 
-st.markdown('<div class="status-badge"><span class="status-dot"></span>Inference Engine Active &nbsp;|&nbsp; Holdout Accuracy: ~94.8% R²</div>', unsafe_allow_html=True)
+st.markdown('<div class="status-badge"><span class="status-dot"></span>Inference Engine Active &nbsp;|&nbsp; Holdout Accuracy: ~93.28% R²</div>', unsafe_allow_html=True)
 
 input_payload = pd.DataFrame([{
     "f": freq,
